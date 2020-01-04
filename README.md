@@ -11,6 +11,6 @@
 ## 工具
 [Git](https://git-scm.com/download)
 [flyway](https://flywaydb.org/getstarted/firststeps/maven)
-
+[lombok](https://projectlombok.org/setup/maven)
 
 
